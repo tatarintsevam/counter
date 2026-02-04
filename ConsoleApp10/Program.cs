@@ -22,6 +22,7 @@ namespace ConsoleApp10
             this.StartPosition = FormStartPosition.CenterScreen;
 
             // Надпись количества кликов
+            //
             LabelOne = new Label();
             LabelOne.Text = "Кликов: 0";
             LabelOne.Location = new Point(100, 50);
